@@ -1,0 +1,27 @@
+body {
+    background-color: #9BC4CB;
+}
+
+h1 {
+    text-align: center;
+    background-color: #FCBCB8;  
+}
+
+h2 {
+    background-color: #FFD972;
+}
+
+.first {
+    text-align: left;
+    font-size: large;
+}
+
+.second {
+    text-align: center;
+    font-size: large;
+}
+
+.third {
+    text-align: right;
+    font-size: large;
+}
